@@ -18,7 +18,7 @@ importers:
         specifier: ^2.5.0
         version: 2.5.0
 
-  apps/docs:
+  apps/storybook:
     dependencies:
       '@acme/ui':
         specifier: workspace:*
